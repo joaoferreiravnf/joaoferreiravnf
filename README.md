@@ -3,10 +3,8 @@ Hi 👋 I’m João and I'm a software engineer with a focus on developing solid
 
 Feel free to check out my repositories where I share my projects and experiments, ranging from simple utilities to more complex systems.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="50" height="50">
-
 # Tech Stack:
-Programming Languages: ![Go](https://upload.wikimedia.org/wikipedia/commons/0/05/Golang_logo.svg), Python, C#
+Programming Languages: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="50" height="25">, <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png)" width="25" height="25">, <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="50" height="25">
 Tools & Frameworks: Echo, Django, Flask ,Testify, Docker, gRPC
 Concepts: Microservices, REST APIs, Clean Architecture, Distributed Systems
 
