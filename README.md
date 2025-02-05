@@ -5,15 +5,22 @@ Also, feel free to explore my repositories, where I share some projects and expe
 
 # Tech Stack:
 Programming Languages: 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="50" height="25"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width="25" height="25">
-<img src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" width="25" height="25">
+- Golang
+- Python
+- C#
 
-Tools & Frameworks: Echo, Django, Flask ,Testify, Docker, gRPC
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="50" height="25">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="50" height="25">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="50" height="25">
+Tools & Frameworks: 
+- Echo
+- Django
+- Flask
+- Testify
+- Docker
+- gRPC
 
-Concepts: Microservices, REST APIs, Clean Architecture, Distributed Systems
+Concepts: 
+- Microservices
+- REST APIs
+- Clean Architecture
+- Distributed Systems
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoferreiravnf"/>
