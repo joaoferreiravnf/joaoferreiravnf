@@ -1,11 +1,11 @@
 ## About Me
-I’m a software engineer with a passion for building efficient and scalable systems. With over a year of experience in the field, I specialize in Golang. My focus is on writing clean, maintainable code and continuously learning new techniques to improve performance and solve problems.
+Hi, I’m João and I'm a software engineer with a focus on developing solid backend solutions. With over a year of experience in the field, I specialize in Golang, while also having already developed in Python and C#. I am continuously looking for new challenges to expand my techical expertise. If you have challenges to be met dont hesitate to contact me :)
 
-I enjoy exploring new technologies and am always eager to take on challenges that push me to grow. Feel free to check out my repositories where I share my projects and experiments, ranging from simple utilities to more complex systems.
+Feel free to check out my repositories where I share my projects and experiments, ranging from simple utilities to more complex systems.
 
 ## Tech Stack:
-	•	Programming Languages: Go, Python, C#
-	•	Tools & Frameworks: Echo, Django, Flask ,Testify, Docker, gRPC
-	•	Concepts: Microservices, REST APIs, Clean Architecture, Distributed Systems
+Programming Languages: Go, Python, C#
+Tools & Frameworks: Echo, Django, Flask ,Testify, Docker, gRPC
+Concepts: Microservices, REST APIs, Clean Architecture, Distributed Systems
 
 Let’s connect! I love collaborating and learning from others.
